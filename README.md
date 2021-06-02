@@ -1,6 +1,6 @@
 # Pine_tree
     
-    my code prints :)  
+    my code prints tree :)  
 
     Example:
     
